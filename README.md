@@ -1,4 +1,4 @@
-# 💰 Expense Management System
+# 💰 Expense Tracking System
 
 A full-stack personal expense tracking application built using **Streamlit (Frontend)**, **FastAPI (Backend)**, and **MySQL (Database)**.
 
