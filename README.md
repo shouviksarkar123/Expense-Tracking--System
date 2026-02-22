@@ -139,7 +139,15 @@ streamlit run app.py
 
 🔗 GitHub: https://github.com/shouviksarkar123  
 🔗 LinkedIn: https://www.linkedin.com/in/shouvik-sarkar-619782279
+---
 
+## 📜 License
+
+This project is licensed under the MIT License.
+
+You are free to use, modify, and distribute this software for personal and commercial purposes.
+
+© 2025 Shouvik Sarkar
 ---
 
 #
