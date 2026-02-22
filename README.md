@@ -115,16 +115,15 @@ streamlit run app.py
 
 ## 📊 Dashboard Preview
 
-## 📊 Dashboard Preview
-
 ### 🥧 Analytics Dashboard - Demo 1
-![Analytics Demo 1](https://raw.githubusercontent.com/shouviksarkar123/project-expense-tracking/main/analytics_ui_demo1.png)
+![Analytics Demo 1](https://raw.githubusercontent.com/shouviksarkar123/project_resources_Expense_Tracking_System/main/analytics_ui_demo1.png)
 
 ### 📈 Analytics Dashboard - Demo 2
-![Analytics Demo 2](https://raw.githubusercontent.com/shouviksarkar123/project-expense-tracking/main/analytics_ui_demo2.png)
+![Analytics Demo 2](https://raw.githubusercontent.com/shouviksarkar123/project_resources_Expense_Tracking_System/main/analytics_ui_demo2.png)
 
 ### 🖥️ Frontend UI
-![Frontend UI](https://raw.githubusercontent.com/shouviksarkar123/project-expense-tracking/main/app_frontend_ui.png)
+![Frontend UI](https://raw.githubusercontent.com/shouviksarkar123/project_resources_Expense_Tracking_System/main/app_frontend_ui.png)
+
 ## 🔮 Future Improvements
 
 * User Authentication
