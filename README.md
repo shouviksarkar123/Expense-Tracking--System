@@ -116,14 +116,13 @@ streamlit run app.py
 ## 📊 Dashboard Preview
 
 ### 🥧 Analytics Dashboard - Demo 1
-![Analytics UI Demo 1](images/analytics_ui_demo1.png)
+![Analytics UI Demo 1](analytics_ui_demo1.png)
 
 ### 📈 Analytics Dashboard - Demo 2
-![Analytics UI Demo 2](images/analytics_ui_demo2.png)
+![Analytics UI Demo 2](analytics_ui_demo2.png)
 
 ### 🖥️ Frontend UI
-![Frontend UI](images/app_frontend_ui.png)
-
+![Frontend UI](app_frontend_ui.png)
 ## 🔮 Future Improvements
 
 * User Authentication
